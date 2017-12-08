@@ -1,0 +1,49 @@
+#Erros cadastro
+getCadastro 
+cadastrar 123 
+cadastrar 123
+
+#Erros cinema | filme já existe; sessão já existe;
+showSalas
+showFilmes
+showSessoes
+
+#Erros Sessão
+addSessao batman 17:00 1
+addSala 7 0
+addSessao batman 17:00 0
+addFilme batman 120 1
+addSessao batman 19:00 0
+addSala 2 1
+addSessao batman 13:00 1
+vender 123 4
+vender 123 4
+vender 456 4
+vender 789 4
+
+#SemErros
+addSala 7 1
+addSala 5 0
+addFilme os_vingadores_guerra_infinita 300 1
+addFilme planeta_em_fúria 120 0
+addSessao os_vingadores_guerra_infinita 20:30 0
+addSessao planeta_em_fúria 17:00 1
+showSalas
+showFilmes
+showSessoes
+cadastrar 123
+cadastrar 456
+cadastrar 789
+vender 123 1
+vender 456 0
+vender 123 0
+vender 789 1
+vender 789 0
+search 20:00
+search 20:30
+search liga_da_justiça
+search planeta_em_fúria
+finalizar 0
+showSessoes
+finalizar 1
+showSessoes
