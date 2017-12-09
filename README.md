@@ -4,7 +4,7 @@ Funcionalidades
 
 *Cadastrar e mostrar usuarios*
 
-cadastrar Joao
+cadastrar Joao\\
   done
 cadastrar Pereira
   done
