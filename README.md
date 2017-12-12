@@ -103,3 +103,15 @@ Vagas: 19
 finalizar 2
 
   done
+
+*ERROS RELACIONADOS A SESSOES*
+Não é possivel cadastrar um filme 3D em uma sala 2D e vice-versa.
+
+Não é possivel cadastrar um filme em uma sala inexistente.
+
+Não é possivel cadastrar um filme que não existe.
+
+Não é possivel cadastrar um filme em horários ocupados.
+
+
+Todos esses erros geram uma exceção.
