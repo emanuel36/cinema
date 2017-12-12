@@ -104,7 +104,9 @@ finalizar 2
 
   done
 
-*ERROS RELACIONADOS A SESSOES*
+´[*ERROS RELACIONADOS A SESSOES*]
+
+
 Não é possivel cadastrar um filme 3D em uma sala 2D e vice-versa.
 
 Não é possivel cadastrar um filme em uma sala inexistente.
