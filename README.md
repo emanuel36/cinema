@@ -66,7 +66,7 @@ addSessao Life 4 1
   
 showSessoes
 
-### Seção 2 ###
+Seção 2
 
 Sala: 1
 
@@ -87,7 +87,7 @@ vender Joao 2
 
 search Life
 
-### Seção 2 ###
+  Seção 2
 
 Sala: 1
 
